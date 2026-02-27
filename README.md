@@ -18,15 +18,15 @@
 ---
 
 <a name="linux"></a>
-### 🚀 Installation-linux
+### Installation-linux <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="20" />
 ```bash
 TEST1
 ```
 <a name="windows"></a>
-### 🚀 Installation-windows
+### Installation-windows <img src="https://cdn-icons-png.flaticon.com/128/220/220215.png" width="20" />
 ```bash
 Test2
 ```
 <a name="Features"></a>
-### 🛠 Features
+### Features <img src="https://cdn-icons-png.flaticon.com/128/4562/4562625.png" width="20" />
 - **Fast** - Быстро работает!
