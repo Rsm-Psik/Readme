@@ -3,15 +3,6 @@
   <h1 align="center">wave</h1>
 </p>
 <p align="center">
-  <a href="https://github.com/starship/starship/blob/master/README.md"
-    ><img
-      height="20"
-      src="https://raw.githubusercontent.com/starship/starship/master/media/flag-us.png"
-      alt="English"
- /></a>
-  &nbsp;
-
-<p align="center">
   <a href="#features"><b>Features</b></a> • 
   <a href="#linux"><b>Installation-linux</b></a> • 
   <a href="#windows"><b>Installation-windows</b></a>
