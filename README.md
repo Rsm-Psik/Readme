@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png" width="50" />
   <br />
   <samp><b>____ MESSENGER</b></samp>
   <br />
