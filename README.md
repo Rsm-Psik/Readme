@@ -2,7 +2,7 @@
   <!-- Main Messenger Logo -->
   <img
     width="150"
-    src="https://cdn-icons-png.flaticon.com"
+    src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png"
     alt="____ Messenger Logo"
   />
 </p>
