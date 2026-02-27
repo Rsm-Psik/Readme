@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="#features"><b>features</b></a>
-  <a href="#Installation"><b>Installation</b></a>
+  <a href="#Installation-linux"><b>Installation-linux</b></a>
+  <a href="#Installation-windows"><b>Installation-windows</b></a>
 </p>
 
 <p align="center">
@@ -16,6 +17,11 @@
 
 ---
 
-### 🚀 Installation
+### 🚀 Installation-linux
 ```bash
 TEST1
+```
+### 🚀 Installation-windows
+```bash
+Test2
+```
