@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com" width="80" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png" width="80" />
   <h1 align="center">____ MESSENGER</h1>
 </p>
 
@@ -19,8 +19,4 @@
 
 ### 🚀 Quick Start
 ```bash
-# Установка через cargo
-cargo install ____
-
-# Запуск
-____ init
+TEST1
