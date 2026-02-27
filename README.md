@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="#features"><b>Features</b></a>
-  <a href="#Installation-linux"><b>Installation-linux</b></a>
-  <a href="#Installation-windows"><b>Installation-windows</b></a>
+  <a href="#features"><b>Features</b></a> • 
+  <a href="#linux"><b>Installation-linux</b></a> • 
+  <a href="#windows"><b>Installation-windows</b></a>
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 
 ---
 
+<a name="linux"></a>
 ### 🚀 Installation-linux
 ```bash
 TEST1
