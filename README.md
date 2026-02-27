@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="200"
-    src="https://raw.githubusercontent.com"
+    src="https://raw.githubusercontent.com/starship/starship/master/media/logo.png"
     alt="____ Messenger"
   />
 </p>
