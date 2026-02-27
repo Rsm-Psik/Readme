@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="#features"><img src="https://img.shields.io" /></a>
-  <a href="#quick-start"><img src="https://img.shields.io" /></a>
-  <img src="https://img.shields.io" />
+  <a href="#features"><b>features</b></a>
+  <a href="#Installation"><b>Installation</b></a>
 </p>
 
 <p align="center">
@@ -17,6 +16,6 @@
 
 ---
 
-### 🚀 Quick Start
+### 🚀 Installation
 ```bash
 TEST1
