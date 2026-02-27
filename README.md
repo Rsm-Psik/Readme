@@ -1,14 +1,20 @@
-<br />
-  <img
-    width="220"
-    src="https://https://cdn-icons-png.flaticon.com/128/3313/3313341.png" 
-    alt="Mercury Messenger"
-  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com" width="50" />
+  <br />
+  <samp><b>____ MESSENGER</b></samp>
+  <br />
+  <small>High-performance messaging, reimagined in Rust.</small>
 </p>
 
-## 🚀 Installation
+<p align="center">
+  <img src="https://img.shields.io🦀-white?style=flat-square" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
-#### 📦 Using Cargo
+---
+
+### ⚡ Quick Start
 ```bash
-TEST1
-Test2
+cargo install ____
+____ init
