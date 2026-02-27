@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="200"
-    src="https://cdn-icons-png.flaticon.com/128/154/154613.png"
+    src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png"
     alt="____ Messenger"
   />
 </p>
