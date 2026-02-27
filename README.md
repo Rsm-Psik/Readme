@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png" width="80" />
-  <h1 align="center">____</h1>
+  <h1 align="center">wave</h1>
 </p>
 
 <p align="center">
