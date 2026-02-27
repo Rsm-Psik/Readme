@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="#features"><b>features</b></a>
+  <a href="#features"><b>Features</b></a>
   <a href="#Installation-linux"><b>Installation-linux</b></a>
   <a href="#Installation-windows"><b>Installation-windows</b></a>
 </p>
@@ -25,3 +25,6 @@ TEST1
 ```bash
 Test2
 ```
+
+### 🛠 Features
+- **Fast** - Быстро работает!
