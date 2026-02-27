@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io🦀-white?style=flat-square" />
-  <img src="https://img.shields.io" />
+  <img src="https://cdn-icons-png.flaticon.com/128/484/484613.png" />
   <img src="https://img.shields.io" />
 </p>
 
