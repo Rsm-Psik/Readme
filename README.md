@@ -1,14 +1,9 @@
-<p align="center">
-  <img
-    width="160"
-    src="https://cdn-icons-png.flaticon.com"
-    alt="Rust Logo"
   />
   <br />
   <img
     width="220"
     src="https://cdn-icons-png.flaticon.com" 
-    alt="Mercury Messenger"
+    alt="___ Messenger"
   />
 </p>
 
@@ -59,4 +54,4 @@
 
 #### 📦 Using Cargo
 ```bash
-cargo install mercury-messenger --locked
+TEST 1 
