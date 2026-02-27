@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://img.shields.io" alt="Build Status" />
+    <img src="https://cdn-icons-png.flaticon.com/128/484/484613.png" alt="Build Status" />
   </a>
   <a href="https://crates.io____">
     <img src="https://img.shields.io" alt="Crates.io version" />
