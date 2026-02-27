@@ -16,7 +16,8 @@
 ---
 
 ### ⚡ Quick Start
-...
+'''bash
+test
 
 ### 🛠 Features
 ...
