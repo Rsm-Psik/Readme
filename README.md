@@ -2,6 +2,14 @@
   <img src="https://cdn-icons-png.flaticon.com/128/3313/3313341.png" width="80" />
   <h1 align="center">wave</h1>
 </p>
+<p align="center">
+  <a href="https://github.com/starship/starship/blob/master/README.md"
+    ><img
+      height="20"
+      src="https://raw.githubusercontent.com/starship/starship/master/media/flag-us.png"
+      alt="English"
+ /></a>
+  &nbsp;
 
 <p align="center">
   <a href="#features"><b>Features</b></a> • 
@@ -10,7 +18,8 @@
 </p>
 
 <p align="center">
-  <i>wave Созданый На Rust</i>
+  <i>wave Созданый На Rust</i>+
+  
   <br />
   <b>Быстрый • Минималистичный • Безопасный • Open Source</b>
 </p>
@@ -30,3 +39,7 @@ Test2
 <a name="Features"></a>
 ### Features <img src="https://cdn-icons-png.flaticon.com/128/4562/4562625.png" width="20" />
 - **Fast** - Быстро работает!
+
+
+
+
