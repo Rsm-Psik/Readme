@@ -22,10 +22,11 @@
 ```bash
 TEST1
 ```
+<a name="windows"></a>
 ### 🚀 Installation-windows
 ```bash
 Test2
 ```
-
+<a name="Features"></a>
 ### 🛠 Features
 - **Fast** - Быстро работает!
