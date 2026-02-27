@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io🦀-white?style=flat-square" />
+  <img src="https://img.shields.io🦀-white?style=flat-square" width="30" />
   <img src="https://cdn-icons-png.flaticon.com/128/7187/7187065.png" width="30" />
-  <img src="https://img.shields.io" />
+  <img src="https://cdn-icons-png.flaticon.com/128/154/154613.png" width="30" />
 </p>
 
 ---
